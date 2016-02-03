@@ -2,7 +2,7 @@
   "name": "@f/raf",
   "description": "Request animation frame (polyfilled if it doesn&#x27;t exist)",
   "repository": "git://github.com/micro-js/raf.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
